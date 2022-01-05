@@ -14,6 +14,6 @@ export const sidebarNO: SidebarConfig = {
         '/tema2/README.md',
       ],
     },
-    'om.md',
+    '/om.md',
   ]
 }

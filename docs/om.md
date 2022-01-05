@@ -1,10 +1,7 @@
 ---
 lang: no-NB
-title: Velkommen
+title: Om
 description: Beskrivelse
 ---
 
-
-# Hei!!
-
-Masse tekst
+# Om prosjektet

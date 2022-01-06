@@ -17,10 +17,10 @@ description: Beskrivelse
 
   <div class="card">
     <div class="image">
-      <a href="/Bærekraftsmålene/"><img src="/images/image_bærekraftshjulet_500x450.png" alt="bærekraftsmålene"></a>
+      <a href="/bærekraftsmålene/"><img src="/images/image_bærekraftshjulet_500x450.png" alt="Bærekraftsmålene"></a>
     </div>
     <div class="content">
-      <h2><a href="/Bærekraftsmålene/">Bærekraftsmålene</a></h2>
+      <h2><a href="/bærekraftsmålene/">Bærekraftsmålene</a></h2>
       <p>FNs bærekraftsmål er verdens felles arbeidsplan for å utrydde fattigdom, bekjempe ulikhet og stoppe klimaendringene innen 2030.</p>
     </div>
   </div>

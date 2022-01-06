@@ -17,7 +17,7 @@ description: Beskrivelse
 
   <div class="card">
     <div class="image">
-      <a href="/bærekraftsmålene/"><img src="/images/image_bærekraftshjulet_500x450.png" alt="Bærekraftsmålene"></a>
+      <a href="/bærekraftsmålene/"><img src="/images/image_berekraftshjulet_500x450.png" alt="Bærekraftsmålene"></a>
     </div>
     <div class="content">
       <h2><a href="/bærekraftsmålene/">Bærekraftsmålene</a></h2>

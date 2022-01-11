@@ -5,19 +5,27 @@ description: Beskrivelse
 ---
 <div class="cards">
   <div class="card">
-      <div class="content">
+    <div class="image">
+      <a href="/definisjon/"><img src="/images/image_r4sdg_500x450.png" alt="Definisjon"></a>
+    </div>
+    <div class="content">
       <h2><a href="/definsjon/">Definisjon</a></h2>
       <p>Hvordan definere hva som er forskning knyttet til bærekraftsmålene? Her finner du en forklaring om utfordringene underveis og våre løsninger.</p>
     </div>
   </div>
 
   <div class="card">
+    <div class="image">
+      <a href="/bærekraftsmålene/"><img src="/images/image_berekraftshjulet_500x450.png" alt="Bærekraftsmålene"></a>
+    </div>
     <div class="content">
       <h2><a href="/bærekraftsmålene/">Bærekraftsmålene</a></h2>
       <p>FNs bærekraftsmål er verdens felles arbeidsplan for å utrydde fattigdom, bekjempe ulikhet og stoppe klimaendringene innen 2030.</p>
     </div>
   </div>
-</div>![image](https://user-images.githubusercontent.com/56684143/148910295-6a1b52b9-0166-4e47-9602-9a2abfbfcbc0.png)
+</div>
+
+
 
 
 HVA gjør vi? Målet for prosjektet er å etablere en transparent gjenfinningstjeneste der alle – allmenheten, kommuner, næringslivet, forskere, studenter – kan få en oversikt og få tilgang til vitenskapelige publikasjoner knyttet til FNs Bærekraftsmål. Vi vil tilby forskjellige tilnærminger – snever eller bredd - tilpasset brukerens behov. Metodene vil være godt dokumentert og åpent for gjenbruk eller tilpasning.

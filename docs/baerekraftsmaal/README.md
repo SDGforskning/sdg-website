@@ -1,10 +1,10 @@
 ---
 lang: no-NB
-title: Tema 1
+title: Bærekraftsmålene
 description: Description of this page
 ---
 
-# Tema 1
+# Bærekraftsmålene
 
 Masse tekst
 

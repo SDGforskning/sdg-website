@@ -2,16 +2,12 @@ import type { SidebarConfig } from '@vuepress/theme-default'
 
 export const sidebarNO: SidebarConfig = {
   '/': [
+    'baerekraftsmaalene.md',
+    'definisjon.md',
     {
-      text: 'Tema 1',
+      text: 'Bærekraftsmål',
       children: [
-        '/tema1/README.md',
-      ],
-    },
-    {
-      text: 'Tema 2',
-      children: [
-        '/tema2/README.md',
+        '/baerekraftsmal/README.md',
       ],
     },
     '/om.md',

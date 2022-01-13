@@ -9,7 +9,7 @@ description: Beskrivelse
 <div class="cards">
   <div class="card">
     <div class="image">
-      <a href="/definisjon"><img src="/images/image_r4sdg_500x450.png" alt="Definisjon"></a>
+      <a href="/definisjon"><img src="images/image_r4sdg_500x450.png" alt="Definisjon"></a>
     </div>
     <div class="content">
       <h2><a href="/definsjon">Definisjon</a></h2>
@@ -19,10 +19,10 @@ description: Beskrivelse
 
   <div class="card">
     <div class="image">
-      <a href="/baerekraftsmaalene"><img src="/images/image_berekraftshjulet_500x450.png" alt="Bærekraftsmålene"></a>
+      <a href="/baerekraftsmaalene"><img src="images/image_berekraftshjulet_500x450.png" alt="Bærekraftsmålene"></a>
     </div>
     <div class="content">
-      <h2><a href="/baerekraftsmaalene/">Bærekraftsmålene</a></h2>
+      <h2><a href="/baerekraftsmaalene">Bærekraftsmålene</a></h2>
       <p>FNs bærekraftsmål er verdens felles arbeidsplan for å utrydde fattigdom, bekjempe ulikhet og stoppe klimaendringene innen 2030.</p>
     </div>
   </div>
